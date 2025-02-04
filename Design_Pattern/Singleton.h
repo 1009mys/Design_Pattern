@@ -89,3 +89,6 @@ namespace Singleton_pattern
 	void test();
 }
 
+
+
+
